@@ -1,5 +1,5 @@
 # Discord Updater
-Automatically updates the discord version when a new version comes 
+Automatically updates the discord version when ran
 
 To get the bash script download the discordupdater.sh file from this GitHub and running it by typing sudo ./discordupdater.sh in the file location you have downloaded it
 
