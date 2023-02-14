@@ -1,4 +1,5 @@
 # Discord Updater
+To get the bash script download the discordupdater.sh file from this GitHub
 Automatically updates the discord version when a new version comes 
 
 # Errors
