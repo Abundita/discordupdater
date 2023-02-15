@@ -10,7 +10,7 @@ which you can do by either using apt or pacman
 
 if you get an error that a directory isn't valid then you need to edit the bash script and change the directory in question to the one
 corresponding to your system. You can run ```file $(which discord)``` to find the discord directory and just add ```/resources/build_info.json``` to it.
-In the end getting something like ```/opt/discord/resources/build_info.json```.
+In the end getting something like ```/opt/discord/resources/build_info.json```. If you are using Fedora the JSON file is in /usr/lib64/discord/resources/ and not under /opt.
 
 # Do not do
 
