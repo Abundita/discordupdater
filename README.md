@@ -19,6 +19,8 @@ Please refrain from running the script unless you're certain your Discord client
 
 I hope this script enhances your Discord experience!
 
-# How it works
+# How it works and some notes
 
 The bash script is highly simple. All it does is incriment the version number by one in the json build information file for Discord, which causes it to automatically update. As to why this isn't already done by discrod itself? Who knows.
+
+The script was also made with the help of Chat GPT, although a lot of modifications had to be made for it to work and to discover key user issues and complaints :)
